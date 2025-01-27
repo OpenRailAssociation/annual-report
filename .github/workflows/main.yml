@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate table of contents
+        run: |
+          tools/generate_toc.py 2024
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Auto-generate table of contents
+          file_pattern: '2024/0200-toc.md'
+
+      - uses: cornelius/action-md-as-pdf@main
+        if: github.ref == 'refs/heads/main'
+        with:
+          markdown_dir: 2024
+          pdf_file: pdf/DRAFT-openrail-annual-report-2024.pdf
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Auto-generate PDF
+          file_pattern: pdf/*
