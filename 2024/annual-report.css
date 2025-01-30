@@ -1,0 +1,12 @@
+@page {
+  margin: 15mm;
+}
+
+html {
+  font-size: 10pt;
+  font-family: 'Open Sans', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}

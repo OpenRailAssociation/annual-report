@@ -1,11 +1,13 @@
-## Website
+## Endnotes
+
+### Website
 
 https://openrailassociation.org
 
-## Contact
+### Contact
 
 Send us an email at contact@openrailassociation.org.
 
-## License
+### License
 
 CC-BY-SA
