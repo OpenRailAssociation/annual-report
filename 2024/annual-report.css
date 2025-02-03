@@ -23,3 +23,28 @@ h2 {
 h3.project {
   break-before: page;
 }
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('fonts/static/SourceSans3-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('fonts/static/SourceSans3-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('fonts/static/SourceSans3-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+body {
+  font-family: 'Source Sans 3', sans-serif;
+}
