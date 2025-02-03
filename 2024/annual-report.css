@@ -26,24 +26,21 @@ h3.project {
 
 @font-face {
   font-family: 'Source Sans 3';
-  src: url('fonts/static/SourceSans3-Regular.woff2') format('woff2'),
-       url('fonts/static/SourceSans3-Regular.ttf') format('truetype');
+  src: url('fonts/static/SourceSans3-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Source Sans 3';
-  src: url('fonts/static/SourceSans3-Bold.woff2') format('woff2'),
-       url('fonts/static/SourceSans3-Bold.ttf') format('truetype');
+  src: url('fonts/static/SourceSans3-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Source Sans 3';
-  src: url('fonts/static/SourceSans3-Italic.woff2') format('woff2'),
-       url('fonts/static/SourceSans3-Italic.ttf') format('truetype');
+  src: url('fonts/static/SourceSans3-Italic.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
 }
