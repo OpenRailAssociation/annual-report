@@ -1,0 +1,50 @@
+@page {
+  size: A4;
+  margin: 15mm;
+}
+
+html {
+  font-size: 10pt;
+  font-family: 'Open Sans', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+em {
+  color: #8b0000;
+}
+
+h2 {
+  break-before: page;
+}
+
+h3.project {
+  break-before: page;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('fonts/static/SourceSans3-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('fonts/static/SourceSans3-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Source Sans 3';
+  src: url('fonts/static/SourceSans3-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+body {
+  font-family: 'Source Sans 3', sans-serif;
+}

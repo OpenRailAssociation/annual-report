@@ -1,11 +1,19 @@
-## Website
+## Endnotes
 
-https://openrailassociation.org
+### Website
 
-## Contact
+Find more information on the OpenRail Association at https://openrailassociation.org.
 
-Send us an email at contact@openrailassociation.org.
+### Contact
 
-## License
+To contact the OpenRail Association send us an email at contact@openrailassociation.org.
 
-CC-BY-SA
+### License
+
+The content of the [Annual Report 2024](https://github.com/OpenRailAssociation/annual-report/2024) of the [OpenRail Association](https://openrailassociation.org) is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de#:~:text=https%3A//creativecommons.org/licenses/by%2Dsa/4.0/).
+
+![CC-BY-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)
+
+### Trademarks
+
+Names and logos of the OpenRail Association, its members and its projects are trademarks of the respective organizations. They may bot be used without permission from the trademark ownwers.
