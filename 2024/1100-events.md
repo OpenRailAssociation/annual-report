@@ -1,8 +1,14 @@
-## Participating in Events
+## Participating in Events for Building a Railway Open Source Community
 
-*Events OpenRail participated in, along with photos where we have them. Tell the story of building a community.*
-* Intro
-* FOSDEM
-* InnoTrans
-* Flatland Symposium
-* 
+Events play a crucial role in strengthening our community internally while also generating interest in railways and open source among a broader audience, further expanding our reach. 
+In 2024, we extensively used existing events to promote the intersection of railways and open source to the world. Our FOSDEM Devroom demonstrated that open source software developers are enthusiastic about railways. A future challenge will be engaging the railway industry in the open source movement. Our visit to InnoTrans in 2024 highlighted that InnoTrans 2026 presents an excellent opportunity to draw attention to the Open Rail Association — a chance we cannot afford to miss.
+
+FOSDEM is Europe’s largest gathering of Free and Open Source Software developers and enthusiasts, attracting over 8,000 participants each year. The event took place on the weekend of February 3-4, 2024, at the ULB University in Brussels. For the second consecutive year, members of the OpenRail Association coordinated the Railways and Open Transport devroom at FOSDEM. From a large number of submissions, we selected ten presentations by experts from diverse backgrounds for this four-hour track. It was a perfect opportunity for the wider OpenRail community to connect, learn, and engage, with over 100 participants, many of whom were railway fans and active members of related communities. For 2025, the FOSDEM organizers have confirmed that we will hold the Railways and Open Transport devroom for a third consecutive year. The preparations, including the challenging selection process from numerous proposals, were completed in December 2024.
+
+In May 2024, Open Rail was featured in a presentation by Max Mehl at Open Source @ Siemens, and it was also mentioned independently in two other talks. In June, Cornelius Schumacher represented the OpenRail Association at the Open Transport Meetup, a community focused on open data and mobility, particularly in public transport. He discussed the organization's operations, the initial projects it has onboarded, and the OpenRail Association's future aspirations.
+
+Between September 30 and October 2, 2024, approximately 150 creative minds from DB, ÖBB, and SBB, along with guests from SNCF, collaborated on improving cross-border rail travel, utilizing open source solutions. The OpenRail projects DAC Migration DSS, OSRD, and Network Graphic Editor introduced their own challenges, which mixed teams worked to address. This traditional event, known as "Dreiländerhack" in 2024, will return in 2025 under the new name "Hack 4 Rail," with even greater collaborative support from the OpenRail Association.
+
+Our associated member, the Flatland Association, provided Cornelius Schumacher with the opportunity to speak at their November symposium on "Open Source in Railways" and to participate in a workshop.
+
+Finally, on December 13, 2024, Jochen Decker, our Chair, presented the topic of open source and the activities of the OpenRail Association at the General Assembly of the UIC. 
