@@ -20,7 +20,7 @@ In 2024 the OpenRail Association accepted the first five open source projects in
 
 ### Open Source Railway Designer (OSRD)
 
-![](https://openrailassociation.org/badges/openrail-project-stage-2.svg)
+![](https://openrailassociation.org/badges/openrail-project-stage-1.svg)
 
 OSRD is an open source web application for railway infrastructure design, capacity analysis, timetabling and simulation and short term path request.
 
