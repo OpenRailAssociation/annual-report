@@ -16,4 +16,4 @@ The content of the [Annual Report 2024](https://github.com/OpenRailAssociation/a
 
 ### Trademarks
 
-Names and logos of the OpenRail Association, its members and its projects are trademarks of the respective organizations. They may bot be used without permission from the trademark ownwers.
+Names and logos of the OpenRail Association, its members and its projects are trademarks of the respective organizations. They may not be used without permission from the trademark ownwers.
