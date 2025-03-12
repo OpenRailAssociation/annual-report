@@ -12,4 +12,7 @@ One of our biggest achievements this year was defining and refining the **incuba
 
 We are especially proud to see **collaboration between OpenRail projects** delivering real impact. A great example is **OSRD and Netzgrafik-Editor**, which joined forces to integrate timetable functionality into OSRD. This collaboration **accelerated OSRD’s progress significantly, saving them an estimated two years in time-to-market**. This is exactly the kind of synergy we aim to foster, and we look forward to seeing even more projects benefit from working together in the future.
 
--- Cornelius Schumacher and Loic Hamelin, Chairs of the OpenRail Technical Committeee 2024
+-- Cornelius Schumacher, Open Source Steward at **DB Systel GmbH**. and Loïc Hamelin, OSRD Program Director at **SNCF Réseau**, *Chairs of the OpenRail Technical Committeee 2024*
+
+![Cornelius Schumacher](images/people/cornelius-schumacher.jpg){.person-tc}
+![Loïc Hamelin](images/people/loic-hamelin.jpg){.person-tc}
