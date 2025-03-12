@@ -53,3 +53,13 @@ img.member-logo {
   max-width: 120px;
   margin: 10px;
 }
+
+img.person {
+  max-width: 100px;
+  float: right;
+}
+
+img.person-tc {
+  max-width: 100px;
+  margin: 10px;
+}
