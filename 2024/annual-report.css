@@ -48,3 +48,8 @@ h3.project {
 body {
   font-family: 'Source Sans 3', sans-serif;
 }
+
+img.member-logo {
+  max-width: 120px;
+  margin: 10px;
+}
