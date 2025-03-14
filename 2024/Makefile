@@ -7,3 +7,6 @@ pdf:
 
 html:
 	pandoc ${INPUTS} --pdf-engine=weasyprint --css=annual-report.css -o out.html
+
+md:
+	cat ${INPUTS} > out.md
