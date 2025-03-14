@@ -1,32 +1,19 @@
 ## Join us
 
-*Text from our one-pager. To be adapted.*
+The **OpenRail Association** is more than just an organization—it’s a **community of people and companies** working together to bring **open source to the railway sector**.
 
-OpenRail Association – Open Source for the Railway Sector
+Railways across Europe face **shared challenges** that require **shared solutions**. Open source enables us to **collaborate, innovate, and break down silos**, ensuring that essential software is **interoperable, efficient, and sustainable**.
 
-We create an open, autonomous and collaborative space to work together on rail-specific software initiatives.
+### Bring Your Project to OpenRail
 
-Our goal is to:
-- Unlock the benefits of open source for the sector
-- Accelerate innovation
-- Increase efficiency
-- Improve interoperability
+OpenRail actively **welcomes new projects** into its **incubation process**. If you have a project that could benefit from **structured governance, a wider community, and long-term sustainability**, our **Technical Committee** provides guidance, best practices, and a neutral home for open-source railway software.
 
-**Contribute** to our projects to collaboratively create solutions for the challenges of digital transformation within the railway sector: https://github.com/OpenRailAssociation
+### Ways to Get Involved
 
-**Topics** – Active Open Source Projects:
+🚆 **Join as a Contributor** – Explore our projects and start contributing: [github.com/OpenRailAssociation](https://github.com/OpenRailAssociation)
 
-- Maintenance
-  *e.g. [RCM-DX](https://github.com/SchweizerischeBundesbahnen/rcm-dx)*
-- Timetable Planning
-  *e.g. [OSRD](http://osrd.fr/)*
-- Netdesign
-  *e.g. [Netzgrafik Editor](https://github.com/SchweizerischeBundesbahnen/netzgrafik-editor-frontend/pull/69)*
+💡 **Propose a New Project** – Learn about our **incubation process** and bring your open-source initiative to OpenRail: [github.com/OpenRailAssociation/technical-committee](https://github.com/OpenRailAssociation/technical-committee)
 
-**Established in 2024 by:**
-- DB
-- SBB
-- SNCF
-- UIC
+🏢 **Become a Member** – Organizations can **support and shape the ecosystem** by joining as members: [openrailassociation.org/about](https://openrailassociation.org/about)
 
-**Join us** as a member to support an open-source ecosystem for the railway sector: https://openrailassociation.org/about
+Our work is **transparent, community-driven, and open to all**. If you're interested in **being part of this movement**, explore our projects, participate in discussions, and see how you or your organization can contribute.
