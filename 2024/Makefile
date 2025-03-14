@@ -1,6 +1,6 @@
 .PHONY: pdf
 
-INPUTS = $(shell find . -maxdepth 1 -name "*.md" | sort | tr '\n' ' ')
+INPUTS = $(shell find . -maxdepth 1 -name "[0-9]*.md" | sort | tr '\n' ' ')
 
 pdf:
 	pandoc ${INPUTS} --pdf-engine=weasyprint --css=annual-report.css -o out.pdf
