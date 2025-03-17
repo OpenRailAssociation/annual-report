@@ -1,6 +1,6 @@
 ### Library for Linear Reference Systems {.project}
 
-libLRS is a library to manipulate linear coordinates and convert them from and to geographical coordinates. It helps to localize objects along curves (e.g. signals on a train track).
+**libLRS is a library to manipulate linear coordinates and convert them from and to geographical coordinates. It helps to localize objects along curves (e.g. signals on a train track).**
 
 The library started as a need for a clean sheet design and a library that focuses on those type of coordinates. There are multiple ad-hoc implementation at SNCF. However there are many little edge cases that those implementation handle differently, which made the integration painful.
 
@@ -15,6 +15,6 @@ We expect that libLRS will be continue to be used in OSRD for more tasks. We hop
 Further information:
 
 * [libLRS on github](https://github.com/OpenRailAssociation/liblrs)
-* [documentation for rust](https://docs.rs/liblrs/latest/liblrs/)
-* [documentation for python](https://pypi.org/project/liblrs-python/)
-* [example how to build the LRS with swiss rail opendata](https://gist.github.com/Tristramg/b3338aaa11dbb5c1ee5882bd270ffd5f)
+* [Documentation for rust](https://docs.rs/liblrs/latest/liblrs/)
+* [Documentation for python](https://pypi.org/project/liblrs-python/)
+* [Example how to build the LRS with swiss rail opendata](https://gist.github.com/Tristramg/b3338aaa11dbb5c1ee5882bd270ffd5f)
