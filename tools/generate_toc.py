@@ -31,8 +31,10 @@ for file_path in sorted(src_dir.glob("*.md")):
                 if m:
                     prefix = m.group(1)
                     header = m.group(2)
-                    toc += "  " * (len(prefix) - 1)
-                    toc += f"* {header}\n"
+                    level = len(prefix)
+                    if level <= 2:
+                        toc += "  " * (level - 2)
+                        toc += f"* {header}\n"
 
 with toc_path.open("w") as f:
     f.write(toc)
