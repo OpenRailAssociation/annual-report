@@ -12,7 +12,7 @@ OSRD is an open source web application for railway infrastructure design, capaci
 
 ![](https://openrailassociation.org/badges/openrail-project-stage-1.svg)
 
-RCM by SBB comprises a suite of products for rail condition monitoring. Based on the open-source data format RCM-DX (RCM Data eXchange), RCM enables easy accessibility and visualization of railway diagnostic data.
+RCM by SBB comprises a suite of products for rail condition monitoring. Based on the open source data format RCM-DX (RCM Data eXchange), RCM enables easy accessibility and visualization of railway diagnostic data.
 
 ### Digital Automated Coupling Migration Decision Support System (DAC Migration DSS)
 

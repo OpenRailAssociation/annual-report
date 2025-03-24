@@ -10,7 +10,7 @@ In **June**, we held our **first General Assembly**, bringing together all membe
 
 To handle operational and administrative work, we established the **OpenRail Team** as a working body by board decision at the January meeting. This **small group, currently composed of representatives from the founding members**, manages the practical work necessary to run the association. Their responsibilities include **preparing board and general assembly meetings, handling member applications, and discussing strategic direction and activities**.
 
-All of these structures serve a single purpose: **to enable successful open-source projects in the railway sector**. A crucial role in this is played by the **Technical Committee**, which acts as the bridge between the association and the projects.
+All of these structures serve a single purpose: **to enable successful open source projects in the railway sector**. A crucial role in this is played by the **Technical Committee**, which acts as the bridge between the association and the projects.
 
 In its first year, OpenRail developed a **productive and transparent working mode**. **Weekly meetings of the OpenRail Team and the Technical Committee serve as the heartbeat of the organization.** We are committed to openness—our projects are publicly available on **GitHub**, and the **Technical Committee publishes all meeting notes and works collaboratively on incubation processes, project support, and other deliverables**.
 

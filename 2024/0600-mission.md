@@ -8,8 +8,8 @@ Since its official launch in January 2024, OpenRail has brought together stakeho
 
 * **Growing the Community:** We welcomed founding members and early adopters, including major railway operators and infrastructure managers.
 * **Launching OpenRail Projects:** Five projects have joined the association, tackling critical challenges in infrastructure simulation, condition monitoring, and network planning.
-* **Defining Open Governance:** We have implemented an incubation process that ensures projects follow open-source best practices while addressing sector-specific needs.
-* **Connecting the Ecosystem:** Through conferences, working groups, and partnerships, we have built bridges between open-source communities and railway professionals.
+* **Defining Open Governance:** We have implemented an incubation process that ensures projects follow open source best practices while addressing sector-specific needs.
+* **Connecting the Ecosystem:** Through conferences, working groups, and partnerships, we have built bridges between open source communities and railway professionals.
 
 ### Breaking Barriers, Creating Opportunities
 
