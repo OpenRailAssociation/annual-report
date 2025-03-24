@@ -1,7 +1,5 @@
 ## Open Source for the Railway Sector
 
-*Tell the story of what the organization is built for. What does it want to achieve and how do the steps we did in 2024 are the beginning of this effort.*
-
 Railways are at the heart of sustainable mobility, and digitalization is shaping the future of our sector. Yet, for too long, railway software has been developed in silos - custom-built, proprietary, and difficult to integrate. The OpenRail Association was founded to change that. Our mission is simple but transformative: **unlock the power of open source in the railway sector to accelerate innovation, improve efficiency, and enhance interoperability**.
 
 ### A Year of Progress

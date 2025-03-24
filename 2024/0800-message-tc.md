@@ -1,7 +1,5 @@
 ## Message of the Chairs of the Technical Committee
 
-*Message from the Technical Committee, highlighting beginning collaboration (example OSRD/NGE).*
-
 In 2024, we built the Technical Committee of the OpenRail Association. It represents the projects, provides open-source governance, and serves as the bridge between the projects and the OpenRail Association as an organization. Our initial focus was to bring the first projects and people together and establish an effective working mode. The **Charter of the Technical Committee** has been validated by the board of directors at the inception of the OpenRail Association.
 
 We are very happy with what we achieved in our first year. Because we didn't have projects at the beginning yet, the Technical Committee started with three members appointed by the board, **Cornelius Schumacher, Loic Hamelin and Peter Keller**. With accepting the first projects, their representatives joined us and at the end of 2024 we are a healthy team of eight people.
