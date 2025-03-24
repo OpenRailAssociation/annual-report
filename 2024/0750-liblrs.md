@@ -14,7 +14,7 @@ We expect that libLRS will be continue to be used in OSRD for more tasks. We hop
 
 Further information:
 
-* [libLRS on github](https://github.com/OpenRailAssociation/liblrs)
-* [Documentation for rust](https://docs.rs/liblrs/latest/liblrs/)
-* [Documentation for python](https://pypi.org/project/liblrs-python/)
+* [libLRS on GitHub](https://github.com/OpenRailAssociation/liblrs)
+* [Documentation for Rust](https://docs.rs/liblrs/latest/liblrs/)
+* [Documentation for Python](https://pypi.org/project/liblrs-python/)
 * [Example how to build the LRS with Swiss rail open data](https://gist.github.com/Tristramg/b3338aaa11dbb5c1ee5882bd270ffd5f)
