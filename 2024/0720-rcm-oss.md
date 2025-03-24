@@ -16,6 +16,8 @@ Further information:
 * [RCM DX Examples](https://github.com/OpenRailAssociation/rcm-dx-examples)
 * [Talk about RCM OSS at FOSDEM](https://archive.fosdem.org/2023/schedule/event/rot_rcmdx/)
 
-![RCM DX Logo](https://github.com/user-attachments/assets/7e2ae6ea-fbfb-4b15-bec7-3071a5b8d73d)
+![RCM DX Logo](images/rcm-dx-logo.png)
 
-![RCMDX_Viewer](https://github.com/user-attachments/assets/7639b828-4a2b-491b-a94a-42655725da02)
+![RCM DX Viewer 1](images/RCM_Viewer_View.png)
+
+![RCM DX Viewer 2](images/rcm_viewer.png)
