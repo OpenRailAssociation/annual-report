@@ -1,4 +1,4 @@
-## Message of the Chairs of the Technical Committee
+## Message from the Technical Committee
 
 In 2024, we built the Technical Committee of the OpenRail Association. It represents the projects, provides open source governance, and serves as the bridge between the projects and the OpenRail Association as an organization. Our initial focus was to bring the first projects and people together and establish an effective working mode. The **Charter of the Technical Committee** has been validated by the board of directors at the inception of the OpenRail Association.
 

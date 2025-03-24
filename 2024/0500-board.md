@@ -1,1 +1,1 @@
-## The OpenRail Association Board
+## The Board of the OpenRail Association

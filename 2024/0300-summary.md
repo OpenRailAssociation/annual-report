@@ -4,12 +4,7 @@ The **OpenRail Association** was founded in 2024 to **bring open source to the r
 
 ### A Year of Progress
 
-Since its launch in **January 2024**, OpenRail has established itself as a **neutral, trusted space** for railway stakeholders to collaborate on open software solutions. Key achievements include:
-
-* **Growing the Community** – Founding members **DB, SBB, SNCF, and UIC** were joined by new members, expanding engagement across Europe.
-* **Launching OpenRail Projects** – Five projects entered the **incubation process**, addressing critical challenges in **infrastructure simulation, condition monitoring, and timetable planning**.
-* **Defining Open Governance** – A structured incubation process ensures projects follow **open source best practices** while addressing railway-specific needs.
-* **Connecting the Ecosystem** – Events like **FOSDEM, Dreiländerhack, and Open Source @ Siemens** helped bridge railway professionals with open source communities.
+Since its launch in **January 2024**, OpenRail has established itself as a **neutral, trusted space** for railway stakeholders to collaborate on open software solutions.  In its first year, it grew its community, launched five projects through a structured incubation process, and actively connected the ecosystem through key industry events.
 
 ### OpenRail Projects
 

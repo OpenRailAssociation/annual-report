@@ -2,4 +2,4 @@
 
 ![Nicole Göbel](images/people/nicole-goebel.jpg){.person}
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis velit nec mi venenatis, id efficitur velit elementum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur." -- Nicole Göbel, *Director*, CEO at **DB Systel GmbH**
+"Deutsche Bahn fully embraces OpenRail's mission, as reflected in the principles of our DB Open Source Manifesto. OpenRail embodies this commitment by focusing on leveraging efficient collaboration. We are proud to have developed a solid working framework within the association and are excited about its potential to accelerate new initiatives and projects. Open source holds the transformative power to tackle the industry’s complex challenges, creating opportunities for scalable, future-proof technologies that benefit the broader ecosystem." -- Nicole Göbel, *Director*, CEO at **DB Systel GmbH**

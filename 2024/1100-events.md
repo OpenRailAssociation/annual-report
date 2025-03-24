@@ -1,4 +1,4 @@
-## Participating in Events for Building a Railway Open Source Community
+## Connecting Through Events and Community
 
 Events play a crucial role in **strengthening our community internally** while also generating interest in railways and open source among a broader audience, further **expanding our reach**.
 In 2024, we extensively used existing events to promote the intersection of railways and open source to the world. Our **FOSDEM Devroom demonstrated that open source software developers are enthusiastic about railways**. A future challenge will be engaging the railway industry in the open source movement. Our visit to InnoTrans in 2024 highlighted that InnoTrans 2026 presents an excellent opportunity to draw attention to the OpenRail Association — a chance we cannot afford to miss.

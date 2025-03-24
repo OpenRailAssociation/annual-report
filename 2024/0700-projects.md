@@ -1,4 +1,4 @@
-## OpenRail Projects
+## Projects Incubated by OpenRail
 
 In 2024 the OpenRail Association accepted the first five open source projects in its [incubation process](https://github.com/OpenRailAssociation/technical-committee/blob/main/incubation-process.md). Dive deeper on each of the projects on the following pages.
 
