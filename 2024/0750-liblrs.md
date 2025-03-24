@@ -10,11 +10,11 @@ So far the library is used on the [OSRD project](https://github.com/OpenRailAsso
 
 We had some initial discussions with other teams from the railway world (display the exact position of a train car on the platform, help emergency services to reach by car the spot where an intervention is required), but also outside of rail: libLRS could be used to localize amenities (camping sites, shops…) along cycle roads where a distance in kilometers is very relatable to cyclists. However, so far we didn’t hear of an actual adoption of libLRS.
 
-We expect that libLRS will be continue to be used in OSRD for more tasks. We hope also to hear about an adoption by other business units of SNCF and groups from the OpenRail community. We would be very happy to learn about the integration of libLRS in non-railway related projects.
+We expect that libLRS will continue to be used in OSRD for more tasks. We hope also to hear about an adoption by other business units of SNCF and groups from the OpenRail community. We would be very happy to learn about the integration of libLRS in non-railway related projects.
 
 Further information:
 
-* [libLRS on github](https://github.com/OpenRailAssociation/liblrs)
-* [Documentation for rust](https://docs.rs/liblrs/latest/liblrs/)
-* [Documentation for python](https://pypi.org/project/liblrs-python/)
+* [libLRS on GitHub](https://github.com/OpenRailAssociation/liblrs)
+* [Documentation for Rust](https://docs.rs/liblrs/latest/liblrs/)
+* [Documentation for Python](https://pypi.org/project/liblrs-python/)
 * [Example how to build the LRS with Swiss rail open data](https://gist.github.com/Tristramg/b3338aaa11dbb5c1ee5882bd270ffd5f)

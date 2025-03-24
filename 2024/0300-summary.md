@@ -1,23 +1,25 @@
 ## Executive Summary
 
-The **OpenRail Association** was founded in 2024 to **bring open source to the railway sector**, fostering collaboration and innovation across railway operators, infrastructure managers, and developers. This **first annual report** highlights the **milestones of our founding year**, the **progress of our open-source projects**, and the **momentum we are building for the future**.
+The **OpenRail Association** was founded in 2024 to **bring open source to the railway sector**, fostering collaboration and innovation across railway operators, infrastructure managers, and developers. This **first annual report** highlights the **milestones of our founding year**, the **progress of our open source projects**, and the **momentum we are building for the future**.
 
 ### A Year of Progress
 
 Since its launch in **January 2024**, OpenRail has established itself as a **neutral, trusted space** for railway stakeholders to collaborate on open software solutions. Key achievements include:
-- **Growing the Community** – Founding members **DB, SBB, SNCF, and UIC** were joined by new members, expanding engagement across Europe.
-- **Launching OpenRail Projects** – Five projects entered the **incubation process**, addressing critical challenges in **infrastructure simulation, condition monitoring, and timetable planning**.
-- **Defining Open Governance** – A structured incubation process ensures projects follow **open-source best practices** while addressing railway-specific needs.
-- **Connecting the Ecosystem** – Events like **FOSDEM, Dreiländerhack, and Open Source @ Siemens** helped bridge railway professionals with open-source communities.
+
+* **Growing the Community** – Founding members **DB, SBB, SNCF, and UIC** were joined by new members, expanding engagement across Europe.
+* **Launching OpenRail Projects** – Five projects entered the **incubation process**, addressing critical challenges in **infrastructure simulation, condition monitoring, and timetable planning**.
+* **Defining Open Governance** – A structured incubation process ensures projects follow **open source best practices** while addressing railway-specific needs.
+* **Connecting the Ecosystem** – Events like **FOSDEM, Dreiländerhack, and Open Source @ Siemens** helped bridge railway professionals with open source communities.
 
 ### OpenRail Projects
 
-In 2024, OpenRail **onboarded five open-source projects** that are shaping the future of railway software:
-- **OSRD** – Open Source Railway Designer for **infrastructure simulation, timetabling, and short-term capacity planning**.
-- **RCM OSS** – Rail Condition Monitoring software based on **the open RCM-DX data format**.
-- **DAC Migration DSS** – Decision Support System for **managing the migration to Digital Automatic Coupling** in freight rail.
-- **Netzgrafik-Editor (NGE)** – A **graphical editor** for designing and analyzing **regular-interval timetables**.
-- **libLRS** – A **library for linear reference systems**, helping locate railway infrastructure elements along tracks.
+In 2024, OpenRail **onboarded five open source projects** that are shaping the future of railway software:
+
+* **OSRD** – Open Source Railway Designer for **infrastructure simulation, timetabling, and short-term capacity planning**.
+* **RCM OSS** – Rail Condition Monitoring software based on **the open RCM-DX data format**.
+* **DAC Migration DSS** – Decision Support System for **managing the migration to Digital Automatic Coupling** in freight rail.
+* **Netzgrafik-Editor (NGE)** – A **graphical editor** for designing and analyzing **regular-interval timetables**.
+* **libLRS** – A **library for linear reference systems**, helping locate railway infrastructure elements along tracks.
 
 ### Building the Organization
 
@@ -25,7 +27,7 @@ The **OpenRail Association was formally incorporated as an international non-pro
 
 ### Looking Ahead
 
-In 2025, we aim to **scale our projects**, attract **new initiatives**, and strengthen **collaboration between projects**. Our focus will be on **deepening collaboration between members and projects**, ensuring that open-source solutions gain **broader adoption and long-term sustainability** in the railway sector.
+In 2025, we aim to **scale our projects**, attract **new initiatives**, and strengthen **collaboration between projects**. Our focus will be on **deepening collaboration between members and projects**, ensuring that open source solutions gain **broader adoption and long-term sustainability** in the railway sector.
 
 ### Join Us
 

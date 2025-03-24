@@ -1,21 +1,5 @@
 ## OpenRail Projects
 
-*One-page overview of the projects with brief summary and ideally some icon to visually represent each project.*
-
-*For each project we will add the incubation stage as a small visiual indicator using the [badge](https://github.com/OpenRailAssociation/technical-committee/issues/42).*
-
-*In the following subsections we have a deep dive for each project (`07xx.md`).*
-
-*Each project should address the following topics:*
-
-* *Which domain, which business requirement does it address*
-* *Which functionality*
-* *Technology*
-* *Adoption, community*
-* *Potential, future perspective*
-* *Reached milestones*
-
-
 In 2024 the OpenRail Association accepted the first five open source projects in its [incubation process](https://github.com/OpenRailAssociation/technical-committee/blob/main/incubation-process.md). Dive deeper on each of the projects on the following pages.
 
 ### Open Source Railway Designer (OSRD)
@@ -28,9 +12,9 @@ OSRD is an open source web application for railway infrastructure design, capaci
 
 ![](https://openrailassociation.org/badges/openrail-project-stage-1.svg)
 
-RCM by SBB comprises a suite of products for rail condition monitoring. Based on the open-source data format RCM-DX (RCM Data eXchange), RCM enables easy accessibility and visualization of railway diagnostic data.
+RCM by SBB comprises a suite of products for rail condition monitoring. Based on the open source data format RCM-DX (RCM Data eXchange), RCM enables easy accessibility and visualization of railway diagnostic data.
 
-### Digital Automated Coupling Migration Decision Support System (DAC Migration DSS)
+### Digital Automatic Coupling Migration Decision Support System (DAC Migration DSS)
 
 ![](https://openrailassociation.org/badges/openrail-project-stage-1.svg)
 
