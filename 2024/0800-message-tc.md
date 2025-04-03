@@ -12,5 +12,5 @@ We are especially proud to see **collaboration between OpenRail projects** deliv
 
 -- Cornelius Schumacher, Open Source Steward at **DB Systel GmbH**. and Loïc Hamelin, OSRD Program Director at **SNCF Réseau**, *Chairs of the OpenRail Technical Committee 2024*
 
-![Cornelius Schumacher](images/people/cornelius-schumacher-dpi.jpg){.person-tc}
-![Loïc Hamelin](images/people/loic-hamelin-dpi.jpg){.person-tc}
+![Cornelius Schumacher](images/people/cornelius-schumacher.jpg){.person-tc}
+![Loïc Hamelin](images/people/loic-hamelin.jpg){.person-tc}

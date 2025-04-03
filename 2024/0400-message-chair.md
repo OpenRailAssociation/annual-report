@@ -1,6 +1,6 @@
 ## Message from the Chair of the Board
 
-![Jochen Decker](images/people/jochen-decker-dpi.jpg){.person}
+![Jochen Decker](images/people/jochen-decker.jpg){.person}
 
 Dear OpenRail Community,
 
