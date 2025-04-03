@@ -1,26 +1,15 @@
 ## Open Source for the Railway Sector
 
-Railways are at the heart of sustainable mobility, and digitalization is shaping the future of our sector. Yet, for too long, railway software has been developed in silos - custom-built, proprietary, and difficult to integrate. The OpenRail Association was founded to change that. Our mission is simple but transformative: **unlock the power of open source in the railway sector to accelerate innovation, improve efficiency, and enhance interoperability**.
+The **OpenRail Association** exists to bridge the world of railways and open source—two domains that can achieve far more together than apart. We believe that the **power of open collaboration** is key to tackling the challenges the railway sector faces in its digital transformation.
 
-### A Year of Progress
+In many industries, open source has already proven to increase **efficiency, accelerate innovation, and foster interoperability**. We want to make these benefits accessible to the railway sector by helping projects and organizations apply **open source principles in ways that fit the railway context**. This means aligning culture, processes, and governance with the needs of railway professionals and their stakeholders. That’s where OpenRail creates real value.
 
-Since its official launch in January 2024, OpenRail has brought together stakeholders from across Europe to collaborate on open software solutions that address shared challenges. We have established a trusted, neutral space where railway operators, infrastructure managers, and developers can work together without commercial barriers. Some key achievements from our first year include:
+**Shared, open foundations do not mean losing control—they mean gaining flexibility, reducing costs, and moving faster than any single organization could on its own.**
 
-* **Growing the Community:** We welcomed founding members and early adopters, including major railway operators and infrastructure managers.
-* **Launching OpenRail Projects:** Five projects have joined the association, tackling critical challenges in infrastructure simulation, condition monitoring, and network planning.
-* **Defining Open Governance:** We have implemented an incubation process that ensures projects follow open source best practices while addressing sector-specific needs.
-* **Connecting the Ecosystem:** Through conferences, working groups, and partnerships, we have built bridges between open source communities and railway professionals.
+To get there, it takes a bit of courage — to work in the open, to invite others in, and to share decision-making. That’s what **open governance** is about: boosting collaboration to the next level by creating transparency, inclusiveness, and trust. OpenRail provides a **well-defined and safe space** for organizations to take that leap.
 
-### Breaking Barriers, Creating Opportunities
+Our focus is on the **practical work happening in the projects**. Each project operates in an **autonomous, hands-on way**, while being connected through the shared framework and values of the OpenRail Association. This structure enables focus, reduces friction, and removes barriers that often slow down progress in traditional environments. It allows contributors to get things done — together, efficiently, and with lasting impact.
 
-A common hesitation in the industry is: *"Railways are special. Open source won’t work for us."* Yet, in other sectors—automotive, telecom, and energy—open collaboration has already delivered massive benefits. **Shared, open foundations do not mean losing control; they mean gaining flexibility, reducing costs, and driving innovation faster than any single organization could alone.**
+We are building an **open house for the railway sector**, where expertise is shared, technology evolves collectively, and companies can build upon reliable, transparent, and reusable solutions. As a neutral association, we provide the structure and space needed to **connect stakeholders, incubate projects, and enable long-term collaboration**.
 
-We are creating an open house for the railway sector, where expertise is shared, technology evolves collectively, and companies can build upon reliable, transparent solutions. We provide a neutral space to unleash the power of open source and tackle the sector’s unique challenges. **Your projects can be part of this movement.** Whether you aim to improve interoperability, streamline operations, or ensure the long-term sustainability of your software, OpenRail provides the framework and community to make it happen.
-
-### Building Momentum
-
-In the coming year, we are focused on helping our projects grow, ensuring they become more mature, robust, and gain adoption. We will support projects in improving quality, strengthening governance, and reaching the next stage in their development through our incubation process. At the same time, we welcome new projects and members addressing key railway challenges. We want to make sure projects don’t exist in isolation but benefit from each other. Our goal is to connect people, facilitate collaboration, and spread good ideas and solutions across the ecosystem.
-
-### Join Us
-
-As we look ahead, we invite railway operators, infrastructure managers, and innovators to explore what open source can do for them. The OpenRail Association is your space to collaborate, experiment, and shape the digital railway of the future, **together, openly.**
+In 2025, we are focused on **supporting the growth of our existing projects**, helping them mature in quality, governance, and adoption. At the same time, we are actively looking to **welcome new projects and members** that address real-world railway challenges. Our goal is to ensure that open source in railways is not a collection of isolated efforts, but a **vibrant, connected ecosystem** that benefits everyone involved.

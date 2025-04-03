@@ -1,4 +1,4 @@
-## Building the Organization
+## How We Built the Organization
 
 The OpenRail Association was officially incorporated as an international non-profit organization (AISBL) under Belgian law by royal decree on **January 7, 2024**.
 

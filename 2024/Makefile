@@ -10,3 +10,6 @@ html:
 
 md:
 	cat ${INPUTS} > out.md
+
+docx:
+	pandoc ${INPUTS} -o out.docx
