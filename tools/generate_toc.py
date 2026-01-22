@@ -27,12 +27,12 @@ for file_path in sorted(src_dir.glob("*.md")):
     if file_path != toc_path:
         with file_path.open() as f:
             for line in f:
-                m = re.search("^(#+) (.*)", line)
+                m = re.search(r"^(#+) (.*?)(?:\s+\{[^}]*\})?$", line)
                 if m:
                     prefix = m.group(1)
-                    header = m.group(2)
+                    header = m.group(2).strip()
                     level = len(prefix)
-                    if level <= 2:
+                    if level <= 3:
                         toc += "  " * (level - 2)
                         toc += f"* {header}\n"
 

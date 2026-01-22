@@ -16,19 +16,19 @@ jobs:
 
       - name: Generate table of contents
         run: |
-          tools/generate_toc.py 2024
+          tools/generate_toc.py 2025
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Auto-generate table of contents
-          file_pattern: '2024/0200-toc.md'
+          file_pattern: '2025/0200-toc.md'
 
       - uses: cornelius/action-md-as-pdf@main
         if: github.ref == 'refs/heads/main'
         with:
-          markdown_dir: 2024
-          css_file: 2024/annual-report.css
-          pdf_file: pdf/DRAFT-openrail-annual-report-2024.pdf
+          markdown_dir: 2025
+          css_file: 2025/annual-report.css
+          pdf_file: pdf/DRAFT-openrail-annual-report-2025.pdf
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
