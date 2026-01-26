@@ -1,1 +1,1 @@
-### Pespectives from the Board {.board}
+### Perspectives from the Board {.board}
