@@ -10,6 +10,15 @@ If you want to go fast, go alone.
 If you want to go far, go together.
 — African proverb
 ```
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/0cd34372-399a-40c8-8a75-019d9f7f3834" /> 
+
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/ad485870-712e-4b54-99d8-848aead40c9b" />
+
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/070082eb-625e-487d-8ad3-27b768281dfa" />
+
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/c4fd7fc6-6cd4-4485-96d3-eb8d85c64df4" />
+
+
 
 ##### Open Source as a Shared Path
 Across many areas of the railway industry, the same pattern emerges: challenges are complex, markets are small, and specialized tools often develop in isolation. Companies build similar solutions in parallel, unaware of each other’s work and unable to benefit from it. The result is a patchwork of isolated systems — each with its own concepts, interfaces, and technical foundations. Knowledge gets lost, synergies remain unused, and innovation progresses more slowly than it should. Out of this situation grew the desire for a different approach: one based not on isolation, but on collaboration.
