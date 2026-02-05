@@ -55,4 +55,4 @@ This is the path the Netzgrafik‑Editor community has chosen — and it shows h
 
 
 
-[^1]: A special thanks goes to the [Flatland Association](https://www.flatland-association.org/) — now also a member of the OpenRail Association.
+[^1]: A special thanks goes to the [Flatland Association](https://www.flatland-association.org/) — a member of the OpenRail Association.
