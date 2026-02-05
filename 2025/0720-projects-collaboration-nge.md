@@ -43,16 +43,4 @@ In the end, one simple insight remains: when many people work together toward a 
 This is the path the Netzgrafik‑Editor community has chosen — and it shows how far you can go when you walk it together.
 
 
-##### Netzgrafik-Editor 
-
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/0cd34372-399a-40c8-8a75-019d9f7f3834" /> 
-
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/ad485870-712e-4b54-99d8-848aead40c9b" />
-
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/070082eb-625e-487d-8ad3-27b768281dfa" />
-
-<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/c4fd7fc6-6cd4-4485-96d3-eb8d85c64df4" />
-
-
-
 [^1]: A special thanks goes to the [Flatland Association](https://www.flatland-association.org/) — a member of the OpenRail Association.
