@@ -2,7 +2,7 @@
 
 ### Open Source in Production
 
-Since 2023, OSRD has been operational at SNCF Réseau, proving that open-source software can support critical railway infrastructure. With around **100 active users**, OSRD addresses diverse needs: **timetabling, operational studies, infrastructure management, and short-term capacity planning**. The platform offers a modern, web-based tool for collaborative timetable creation, integrating **both macroscopic and microscopic railway data**. This unified approach bridges high-level planning and detailed operational analysis, replacing outdated methods with a seamless, comprehensive solution.
+Since 2023, OSRD has been operational at SNCF Réseau, proving that open-source software can support critical railway infrastructure management. With around **100 active users**, OSRD addresses diverse needs: **timetabling, operational studies, infrastructure management, and short-term capacity planning**. The platform offers a modern, web-based tool for collaborative timetable creation, integrating **both macroscopic and microscopic railway data**. This unified approach bridges high-level planning and detailed operational analysis, replacing outdated methods with a seamless, comprehensive solution.
 
 The short-term capacity management module serves multiple railway companies. Users search daily for available train slots within France’s residual network capacity. When OSRD identifies viable options, requests are forwarded to SNCF Réseau’s validation tools. This accelerates processes, enabling more trains to run on the network.
 
