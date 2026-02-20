@@ -12,7 +12,7 @@ During 2025, we further strengthened our organization by improving governance, i
 
 ## Creating Real Value
 
-OpenRail projects create value by translating collaboration into solutions that are built and used in real-world operations. The Netzgrafik-Editor / Open Source Railway Designer collaboration between SBB and SNCF is one example that demonstrates this approach. Together, OpenRail projects show how open-source practices generate tangible business outcomes.
+OpenRail projects create value by translating collaboration into solutions that are built and used in real-world operations. The Netzgrafik-Editor / Open Source Railway Designer collaboration between SBB and SNCF is one example that demonstrates this approach. Together, OpenRail projects show how open source practices generate tangible business outcomes.
 
 ## A Community Gaining Momentum
 
