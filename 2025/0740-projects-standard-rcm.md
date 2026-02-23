@@ -2,6 +2,8 @@
 
 Data from diagnostic measurement vehicles is essential for SBB to manage maintenance efficiently and to enable safe railway operations. These vehicles continuously record detailed infrastructure data — forming the foundation for a reliable diagnosis of track and overhead line condition.
 
+![RCM OSS](images/rcm-oss.png)
+
 One of the challenges in Railway Infrastructure Diagnostics is the prevalence of proprietary data formats and software. Measurement system suppliers deliver their hardware with proprietary data formats and software. Diagnostic measurement vehicles harbour multiple of these systems and are therefore easily subjected to a variety of data formats and required software licences. In addition to the resulting complexity of data processing, proprietary elements also make it difficult to store such data in a readable form for the required period of time of up to 20 years.
 
 The RCM-DX file format is available open-source. With RCM-DX we step away from proprietary data formats which require specialised software and know-how, towards a self-contained and open format. RCM-DX can be accessed through standard HDF5 tools. In addition to the already published MATLAB function, we have added a python function to facilitate more specific reading of RCM-DX files. The accompanying visualisation software, RCM-DX Viewer, is available as freeware.
