@@ -2,7 +2,7 @@
 
 Data from diagnostic measurement vehicles is essential for SBB to manage maintenance efficiently and to enable safe railway operations. These vehicles continuously record detailed infrastructure data — forming the foundation for a reliable diagnosis of track and overhead line condition.
 
-![RCM OSS](images/rcm-oss.png)
+![RCM OSS](images/projects/rcm-oss.png)
 
 One of the challenges in Railway Infrastructure Diagnostics is the prevalence of proprietary data formats and software. Measurement system suppliers deliver their hardware with proprietary data formats and software. Diagnostic measurement vehicles harbour multiple of these systems and are therefore easily subjected to a variety of data formats and required software licences. In addition to the resulting complexity of data processing, proprietary elements also make it difficult to store such data in a readable form for the required period of time of up to 20 years.
 
