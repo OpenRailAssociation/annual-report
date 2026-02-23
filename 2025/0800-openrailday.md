@@ -21,3 +21,5 @@ But beyond the stage program, the most important element was direct exchange. De
 ![Stands](images/openrailday/openrailday-stands.jpg)
 
 OpenRail Day demonstrated that the ecosystem is active, connected, and growing — and that collaboration in practice is the foundation for sustainable digital transformation in the railway sector.
+
+A big thank you goes to SNCF and UIC for organizing the event and to SNCF for hosting it at their headquarters on the Campus Rimbaud.
