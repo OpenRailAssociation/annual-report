@@ -1,8 +1,8 @@
 ### Hack4Rail 2025 in Bern - Innovation through Open Source
 
-OpenRail Association is delighted to have partnered in Hack4Rail 2025, hosted by SBB, which took place from June 23 to 25 in Bern, Switzerland. The hackathon brought together around 170 creative minds from the railway industry, including members from DB, Flatland Association, Infrabel, ÖBB, SBB, and SNCF, working in 21 interdisciplinary teams to tackle some of the key challenges faced by rail operators and infrastructure managers today.
+OpenRail Association partnered Hack4Rail 2025, hosted by SBB, which took place from June 23 to 25 in Bern, Switzerland. The hackathon brought together around 170 creative minds from the railway industry, including members from DB, Flatland Association, Infrabel, ÖBB, SBB, and SNCF, working in 21 interdisciplinary teams to tackle some of the key challenges faced by rail operators and infrastructure managers today.
 
-With the theme “Connected Railways for Intelligent Solutions”, Hack4Rail focused on multinational collaboration and Open Source solutions. OpenRail Association contributed by providing technical infrastructure, financial support, and a collaborative space on GitHub, helping to open-source the challenges from the very beginning.
+With the theme “Connected Railways for Intelligent Solutions”, Hack4Rail focused on multinational collaboration and Open Source solutions. OpenRail Association contributed by providing technical infrastructure, financial support, and a collaborative space on GitHub, while its members brought in real-world challenges and actively collaborated within the teams. Helping to open-source these challenges from the very beginning. The teams’ open way of working ensured that results remain transparent and easy to build upon beyond the event itself, making the work carried out during the hackathon more sustainable over time.
 
 ![Hacking](images/hack4rail/Hack4Rail-Bern-2025_Copyright-SBB_005.jpg)
 
