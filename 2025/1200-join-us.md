@@ -10,9 +10,9 @@ OpenRail actively **welcomes new projects** into its **incubation process**. If 
 
 #### Ways to Get Involved
 
-🚆 **Join as a Contributor** – Explore our projects and start contributing: [github.com/OpenRailAssociation](https://github.com/OpenRailAssociation)
+🚆 **Join as a Contributor** – Explore our projects and start contributing: [https://github.com/OpenRailAssociation](https://github.com/OpenRailAssociation)
 
-💡 **Propose a New Project** – Learn about our **incubation process** and bring your open source initiative to OpenRail: [github.com/OpenRailAssociation/technical-committee](https://github.com/OpenRailAssociation/technical-committee)
+💡 **Propose a New Project** – Learn about our **incubation process** and bring your open source initiative to OpenRail: [projects.openrailassociation.org/](https://projects.openrailassociation.org/)
 
 🏢 **Become a Member** – Organizations can **support and shape the ecosystem** by joining as members: [openrailassociation.org/about](https://openrailassociation.org/about)
 
@@ -23,7 +23,7 @@ OpenRail offers **four membership categories**, providing different levels of en
 | Membership Category  | Role & Influence | Annual Fee (2024) | Representation on Board |
 |----------------------|----------------|-------------------|------------------|
 | **Platinum** | Strategic leadership in OpenRail’s direction | **25,000 €** | **7 seats** |
-| **Gold** | Active participation in governance & decision-making | **15,000 €** | **3 seats** |
+| **Gold** | Active participation in governance and decision-making | **15,000 €** | **3 seats** |
 | **Silver** | Engaged collaboration in OpenRail’s open source ecosystem | **10,000 €** | **1 seat** |
 | **Associate** | NGOs, academic institutions supporting OpenRail’s mission | **Free** | **1 seat** |
 

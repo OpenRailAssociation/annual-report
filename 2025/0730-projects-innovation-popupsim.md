@@ -1,8 +1,8 @@
 ### Innovation through Open Source (DAC Migration DSS)
 
-Innovation doesn’t always start in boardrooms. There is also grassroots development in the railway sector, such as PopUpSim. PopUpSim is an independent part of the DAC Migration DSS with its own repository. It joined the OpenRailAssociation in 2025.
+Innovation doesn't always start in boardrooms. There is also grassroots development in the railway sector, such as PopUpSim. PopUpSim is an independent part of the DAC Migration DSS with its own repository. It joined the OpenRail Association in 2025.
 
-![PopUpSim Interface](images/projects/PopUpSim Screenshoot.png)
+![PopUpSim Interface](images/projects/popupsim-screenshot.png)
 
 The idea for PopUpSim emerged during the Dreiländerhack (now: Hack4Rail), which took place from 30 September to 1 October 2024 in Berlin. A team of developers from DB, SBB and ÖBB tackled a challenge concerning the simulation of wagon flows from operations to workshops and back to operations during the migration from the screw coupler to the Digital Automatic Coupler. The team created a demonstrator and won third prize at the hackathon.
 

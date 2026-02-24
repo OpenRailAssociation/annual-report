@@ -2,11 +2,11 @@
 
 ### Website
 
-Find more information on the OpenRail Association at https://openrailassociation.org.
+Find more information on the OpenRail Association at [openrailassociation.org](https://openrailassociation.org).
 
 ### Contact
 
-To contact the OpenRail Association send us an email at contact@openrailassociation.org.
+To contact the OpenRail Association send us an email at [contact@openrailassociation.org](mailto:contact@openrailassociation.org).
 
 ### License
 
@@ -16,4 +16,4 @@ The content of the [Annual Report 2025](https://github.com/OpenRailAssociation/a
 
 ### Trademarks
 
-Names and logos of the OpenRail Association, its members and its projects are trademarks of the respective organizations. They may not be used without permission from the trademark owners.
+Names and logos of the OpenRail Association, its members, and its projects are trademarks of the respective organizations. They may not be used without permission from the trademark owners.
