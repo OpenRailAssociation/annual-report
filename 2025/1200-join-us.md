@@ -12,7 +12,7 @@ OpenRail actively **welcomes new projects** into its **incubation process**. If 
 
 🚆 **Join as a Contributor** – Explore our projects and start contributing: [github.com/OpenRailAssociation](https://github.com/OpenRailAssociation)
 
-💡 **Propose a New Project** – Learn about our **incubation process** and bring your open source initiative to OpenRail: [github.com/OpenRailAssociation/technical-committee](https://github.com/OpenRailAssociation/technical-committee)
+💡 **Propose a New Project** – Learn about our **incubation process** and bring your open source initiative to OpenRail: [projects.openrailassociation.org/](https://projects.openrailassociation.org/)
 
 🏢 **Become a Member** – Organizations can **support and shape the ecosystem** by joining as members: [openrailassociation.org/about](https://openrailassociation.org/about)
 

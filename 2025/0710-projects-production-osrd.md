@@ -1,6 +1,6 @@
 ## How OpenRail Drives Impact
 
-### Open Source in Production
+### Open Source in Production (OSRD)
 
 Since 2023, OSRD has been operational at SNCF Réseau, proving that open-source software can support critical railway infrastructure management. With around **100 active users**, OSRD addresses diverse needs: **timetabling, operational studies, infrastructure management, and short-term capacity planning**. The platform offers a modern, web-based tool for collaborative timetable creation, integrating **both macroscopic and microscopic railway data**. This unified approach bridges high-level planning and detailed operational analysis, replacing outdated methods with a seamless, comprehensive solution.
 
@@ -20,8 +20,8 @@ To improve accessibility, OSRD is fully localized in French and English, with pa
 
 Beyond operational gains, OSRD’s open source model advances a strategic goal: creating a **standard platform** for **European-scale timetable collaboration**. Since many features requested by SNCF Réseau align with broader industry needs, the open development approach ensures improvements benefit all stakeholders, promoting interoperability and reducing redundant efforts across Europe.
 
-![Timetabling module, Space Time Diagram, Train List and NGE integration][images/osrd_1.webp]
+![Timetabling module, Space Time Diagram, Train List and NGE integration](images/projects/osrd_1.webp)
 
-![Timetabling module, Space Time Diagram][images/osrd_2.webp]
+![Timetabling module, Space Time Diagram](images/projects/osrd_2.webp)
 
-![Timetabling module, NGE integration][images/osrd_3.webp]
+![Timetabling module, NGE integration](images/projects/osrd_3.webp)

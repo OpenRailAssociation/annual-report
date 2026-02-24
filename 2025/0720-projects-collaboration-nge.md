@@ -1,4 +1,4 @@
-### Collaborative Development of the Netzgrafik-Editor: Creating Shared Value
+### Creating Shared Value (NGE)
 
 ```
 If you want to go fast, go alone.

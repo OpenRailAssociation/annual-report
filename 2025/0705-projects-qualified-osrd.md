@@ -1,4 +1,4 @@
-### First Project Reaching the Qualified Stage
+### First Project Reaching the Qualified Stage (OSRD)
 
 On February 27, 2025, OSRD became the first OpenRail project to reach the **Qualified stage**, marking a significant milestone in the association's incubation process, achieved in just one year after being hosted by the OpenRailAssociation. The Qualified stage represents projects that have achieved a high level of quality and maturity, ready for production use by end users.
 
@@ -8,8 +8,8 @@ To reach this stage, the OSRD team undertook substantial work to meet eight rigo
 
 This qualification signifies that OSRD has established robust processes for external contributions, transparent governance, and industry-standard security practices. The improved documentation and clear pathways for participation make OSRD more accessible to contributors and adopters throughout the railway industry, positioning it as a mature, production-ready solution for railway operations and capacity planning.
 
-### Further information
+#### Further information
 
-OSRD Github Page: https://github.com/OpenRailAssociation/osrd
-OSRD website: https://osrd.fr/en/
-OSRD Documentation: https://osrd.fr/en/docs/
+* OSRD Github Page: https://github.com/OpenRailAssociation/osrd
+* OSRD website: https://osrd.fr/en/
+* OSRD Documentation: https://osrd.fr/en/docs/
