@@ -34,3 +34,11 @@ Based on this experience, several conclusions may be relevant for similar domain
 - Open collaboration enables innovation beyond the capabilities of a single company.
 
 If you want to go far, go together with Open Source values and principles.
+
+![NGE Screenshot 1](images/projects/nge-1.png)
+
+![NGE Screenshot 2](images/projects/nge-2.png)
+
+![NGE Screenshot 3](images/projects/nge-3.png)
+
+![NGE Screenshot 4](images/projects/nge-4.png)
