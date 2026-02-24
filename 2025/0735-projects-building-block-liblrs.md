@@ -10,8 +10,8 @@ When we designed libLRS, we wanted to create a simple, efficient and modern libr
 
 When we contacted other sub-entities of SNCF Réseau, we noticed an interesting pattern: having defined an exchange format with the library allowed us to give immediately the data to other entities (a simple sharepoint link to the data file, no access to a database through a VPN and credentials that require weeks to obtain). With that file, they could test on the public demonstrator taking a shortcut compared to traditional IT projects. This accelerated the adoption.
 
-In conclusion, the key for a successful adoption to libLRS, much more than the technical aspects, were:
+In conclusion, the key aspects for the successful adoption of libLRS, much more than the technical aspects, were:
 
-- Data trivial to share
+- Data that is trivial to share
 - A demonstrator that requires no setup
 - The publication of the library on PyPI and NPM
