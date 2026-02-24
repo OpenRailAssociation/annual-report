@@ -6,6 +6,8 @@ The OpenRail Association provides a neutral space for shared development and gov
 
 There are several ways to engage: join as a member, collaborate in a working group, or initiate or contribute to an OpenRail open source project.
 
+![OpenRail Association Structure](images/openrail-structure.png)
+
 Member organizations are represented in the General Assembly, which elects the Board of Directors. These statutory bodies define the strategic direction of the association and ensure its long-term stability.
 
 OpenRail projects are represented in the Technical Committee. The Technical Committee provides overall guidance based on open source principles and ensures that projects follow an open governance model and keep a high level of quality. Contributions are open to anyone. You don't have to be a member to use or contribute to OpenRail projects.
