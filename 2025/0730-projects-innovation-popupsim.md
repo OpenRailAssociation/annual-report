@@ -1,6 +1,6 @@
 ### Innovation through Open Source (DAC Migration DSS)
 
-Innovation doesn’t always start in boardrooms. There is also grassroots development in the railway sector, such as PopUpSim. PopUpSim is an independent part of the DAC Migration DSS with its own repository. It joined the OpenRailAssociation in 2025.
+Innovation doesn't always start in boardrooms. There is also grassroots development in the railway sector, such as PopUpSim. PopUpSim is an independent part of the DAC Migration DSS with its own repository. It joined the OpenRail Association in 2025.
 
 ![PopUpSim Interface](images/projects/popupsim-screenshot.png)
 

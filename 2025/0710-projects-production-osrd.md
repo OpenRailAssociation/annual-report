@@ -6,7 +6,7 @@ Since 2023, OSRD has been operational at SNCF Réseau, proving that open-source 
 
 The short-term capacity management module serves multiple railway companies. Users search daily for available train paths within France’s residual network capacity. When OSRD identifies viable options, requests are forwarded to SNCF Réseau’s validation and ordering tools. This accelerates processes by avoiding impossible requests and suggesting alternative options, enabling more trains to run on the network.
 
-OSRD’s success in production stems from its **customizable integrations**. SNCF Réseau developed private connectors to process internal data before feeding it into OSRD, while the `railway_manager_interface` supports specific organization operations, such as importing proprietary timetable formats and exporting schedules to private IT systems. This flexibility demonstrates how open source projects can integrate smoothly into complex enterprise environments without sacrificing specialized requirements. It can also work with open data, so it does not depend on internal services.
+OSRD's success in production stems from its **customizable integrations**. SNCF Réseau developed private connectors to process internal data before feeding it into OSRD, while the `railway_manager_interface` supports specific organization operations, such as importing proprietary timetable formats and exporting schedules to private IT systems. This flexibility demonstrates how open source projects can integrate smoothly into complex enterprise environments without sacrificing specialized requirements. It can also operate on open data, ensuring that it does not depend on internal services.
 
 A public [demo instance](https://osrd.openrailassociation.org/) of OSRD is available on OpenRail's infrastructure so you can try it out without having to install any software yourself.
 
@@ -14,7 +14,7 @@ At SNCF, OSRD runs on a scalable AWS Kubernetes cluster, using the project’s p
 
 Authentication integrates with SNCF’s internal identity provider, allowing users to access OSRD via their existing SNCF credentials through OpenID Connect. It can work with any other OIDC provider as well. This simplifies onboarding and ensures compliance with security policies. Deployments use SNCF’s internal tools: public Docker images are mirrored internally, and updates are applied via Helm upgrades.
 
-OSRD’s granular roles and permissions system assigns high-level functionalities through roles and fine grained access, such as permissions for specific railway infrastructures to users or groups. This ensures users only access relevant data and tools, matching the level of data protection desired by the company.
+OSRD's granular roles and permissions system assigns high-level functionalities through roles and fine-grained access, such as permissions for specific railway infrastructures to users or groups. This ensures users only access relevant data and tools, matching the level of data protection desired by the company.
 
 To improve accessibility, OSRD is fully localized in French and English, with partial support for German, Dutch, Portuguese, and Spanish. SNCF contributes to ongoing translations via Weblate, an open-source platform. This collaborative effort not only benefits French-speaking teams but also supports OSRD’s mission to enable cross-border railway interoperability.
 

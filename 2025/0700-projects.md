@@ -8,7 +8,7 @@ The following projects are the official OpenRail projects incubated through the 
 
 ![](https://openrailassociation.org/badges/openrail-project-stage-2.svg)
 
-OSRD is an open source web application for railway infrastructure design, capacity analysis, timetabling and simulation and short term path request.
+OSRD is an open source web application for railway infrastructure design, capacity analysis, timetabling and simulation and short-term path requests.
 
 #### Rail Condition Monitoring (RCM OSS)
 

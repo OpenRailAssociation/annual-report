@@ -4,7 +4,7 @@
 
 ![Jochen Decker](images/people/jochen-decker.jpg){.person}
 
-The railway industry can’t ignore geopolitics. In a rapidly evolving geopolitical environment, digital resilience — grounded in sovereignty and security — has become a strategic necessity for critical infrastructure. Across the rail sector, Open Source is increasingly recognized as a cornerstone of resilient digital systems. This reinforces the strategic relevance of the OpenRail Association and its mission to advance the collaborative development of Open Source Software for rail.
+The railway industry can't ignore geopolitics. In a rapidly evolving geopolitical environment, digital resilience — grounded in sovereignty and security — has become a strategic necessity for critical infrastructure. Across the rail sector, open source is increasingly recognized as a cornerstone of resilient digital systems. This reinforces the strategic relevance of the OpenRail Association and its mission to advance the collaborative development of open source software for rail.
 
 #### From Foundation to Delivery
 
@@ -12,7 +12,7 @@ During 2025, we further strengthened our organization by improving governance, i
 
 #### Creating Real Value
 
-OpenRail projects create value by translating collaboration into solutions that are built and used in real-world operations. The Netzgrafik-Editor / Open Source Railway Designer collaboration between SBB and SNCF is one example that demonstrates this approach. Together, OpenRail projects show how open source practices generate tangible business outcomes.
+OpenRail projects create value by translating collaboration into solutions that are built and used in real-world operations. The collaboration between Netzgrafik-Editor and Open Source Railway Designer (OSRD) involving SBB and SNCF is one example that demonstrates this approach. Together, OpenRail projects show how open source practices generate tangible business outcomes.
 
 #### A Community Gaining Momentum
 

@@ -12,6 +12,6 @@ When we contacted other sub-entities of SNCF Réseau, we noticed an interesting 
 
 In conclusion, the key aspects for the successful adoption of libLRS, much more than the technical aspects, were:
 
-- Data that is trivial to share
+- Data that is easy to share
 - A demonstrator that requires no setup
 - The publication of the library on PyPI and NPM
