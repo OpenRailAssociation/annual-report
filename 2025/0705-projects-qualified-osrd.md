@@ -1,4 +1,4 @@
-### First Project Reaching the Qualified Stage (OSRD)
+### First Project Reaching the Qualified Stage
 
 On February 27, 2025, OSRD became the first OpenRail project to reach the **Qualified stage**, marking a significant milestone in the association's incubation process, achieved in just one year after being hosted by the OpenRail Association. The Qualified stage represents projects that have achieved a high level of quality and maturity, ready for production use by end users.
 

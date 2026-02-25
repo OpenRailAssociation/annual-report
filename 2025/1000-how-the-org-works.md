@@ -1,6 +1,6 @@
 ## The Association
 
-### How the OpenRail Association works
+### How the OpenRail Association Works
 
 The OpenRail Association provides a neutral space for shared development and governance of software in the railway sector. It is firmly rooted in open source principles and open to the entire railway ecosystem. OpenRail connects member organizations and open source projects within a structured and reliable framework.
 

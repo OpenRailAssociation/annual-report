@@ -1,4 +1,4 @@
-### Creating Shared Value (NGE)
+### Netzgrafik-Editor - Shared Path Creates Shared Value
 
 ```
 If you want to go fast, go alone.

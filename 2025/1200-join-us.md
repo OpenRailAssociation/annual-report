@@ -1,4 +1,4 @@
-### Join us
+### Join Us
 
 The **OpenRail Association** is more than just an organization—it’s a **community of people and companies** working together to bring **open source to the railway sector**.
 
@@ -10,7 +10,7 @@ OpenRail actively **welcomes new projects** into its **incubation process**. If 
 
 #### Ways to Get Involved
 
-🚆 **Join as a Contributor** – Explore our projects and start contributing: [https://github.com/OpenRailAssociation](https://github.com/OpenRailAssociation)
+🚆 **Join as a Contributor** – Explore our projects and start contributing: [github.com/OpenRailAssociation](https://github.com/OpenRailAssociation)
 
 💡 **Propose a New Project** – Learn about our **incubation process** and bring your open source initiative to OpenRail: [projects.openrailassociation.org/](https://projects.openrailassociation.org/)
 
