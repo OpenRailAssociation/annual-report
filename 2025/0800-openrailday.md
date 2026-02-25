@@ -1,8 +1,8 @@
 ## Community and Ecosystem
 
-### OpenRail Day @Paris - Collaboration in Practice
+### OpenRail Day in Paris - Collaboration in Practice
 
-With OpenRail Day 2025 in Paris, the OpenRail Association brought its community together in person at scale for the first time. On December 17th 2025, hundreds of participants joined for a full day of workshops, conference sessions, and networking, demonstrating that OpenRail has evolved into a visible and growing ecosystem.
+With OpenRail Day in Paris, the OpenRail Association brought its community together in person at scale for the first time. On December 17th 2025, hundreds of participants joined for a full day of workshops, conference sessions, and networking, demonstrating that OpenRail has evolved into a visible and growing ecosystem.
 
 Participants explored the OpenRail projects at dedicated stands, learned about recent developments and upcoming plans in presentations, and engaged directly with developers and contributors. The event made tangible what OpenRail stands for: practical collaboration around shared digital building blocks for the railway sector.
 
