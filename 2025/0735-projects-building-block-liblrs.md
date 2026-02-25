@@ -1,4 +1,4 @@
-### Building blocks (libLRS)
+### libLRS - Building Blocks for Rail
 
 Linear referencing systems are used everywhere in the railway industry to describe the network. They hold the specifics of guided transportation and it is trivial to understand how the objects (switches, signals, etc.) are positioned. A coordinate is a simple distance — such as 12+340 – from a milestone on a given track.
 

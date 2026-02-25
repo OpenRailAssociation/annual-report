@@ -1,4 +1,4 @@
-### Open Source fosters adoption of standards (RCM OSS)
+### Rail Condition Monitoring OSS - Open Source Fosters Adoption of Standards
 
 Data from diagnostic measurement vehicles is essential for SBB to manage maintenance efficiently and to enable safe railway operations. These vehicles continuously record detailed infrastructure data — forming the foundation for a reliable diagnosis of track and overhead line condition.
 

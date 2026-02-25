@@ -16,7 +16,7 @@ OpenRail projects create value by translating collaboration into solutions that 
 
 #### A Community Gaining Momentum
 
-The growing maturity of our community was clearly visible at OpenRail Day @Paris. The professionalism, openness, and engagement on display reflected an ecosystem aligned around collaboration as a driver of digital transformation in rail.
+The growing maturity of our community was clearly visible at OpenRail Day in Paris. The professionalism, openness, and engagement on display reflected an ecosystem aligned around collaboration as a driver of digital transformation in rail.
 
 #### Looking Ahead
 
