@@ -20,7 +20,7 @@ OpenRail actively **welcomes new projects** into its **incubation process**. If 
 
 OpenRail offers **four membership categories**, providing different levels of engagement and governance representation:
 
-| Membership Category  | Role & Influence | Annual Fee (2024) | Representation on Board |
+| Membership Category  | Role & Influence | Annual Fee | Representation on Board |
 |----------------------|----------------|-------------------|------------------|
 | **Platinum** | Strategic leadership in OpenRail’s direction | **25,000 €** | **7 seats** |
 | **Gold** | Active participation in governance and decision-making | **15,000 €** | **3 seats** |
